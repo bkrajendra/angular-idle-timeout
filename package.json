@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:ci": "ng build --sourceMap=false --base-href /mt-tasks/"
+    "build:ci": "ng build --sourceMap=false --base-href /angular-idle-timeout/"
   },
   "private": true,
   "dependencies": {
